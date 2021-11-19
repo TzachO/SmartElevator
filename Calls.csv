@@ -1,0 +1,7 @@
+Elevator call,137.9515274,0,4,0,-1,,,,,"""_speed"": 0.5,",,,,
+Elevator call,143.9133584,0,6,0,-1,,,,,"""_minFloor"": -2,",,,,
+Elevator call,169.7845834,-1,0,0,-1,,,,,"""_maxFloor"": 10,",,,,
+Elevator call,170.0099621,0,6,0,-1,,,,,"""_closeTime"": 2.0,",,,,
+Elevator call,171.2117332,-1,8,0,-1,,,,,"""_openTime"": 2.0,",,,,
+Elevator call,174.8438515,0,-1,0,-1,,,,,"""_startTime"": 3.0,",,,,
+Elevator call,187.1167862,-1,-2,0,-1,,,,,"""_stopTime"": 3.0",,,,
